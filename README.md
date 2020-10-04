@@ -1,4 +1,4 @@
-# Dense_img_matching.pytorch
+# DenseMatching.pytorch
 
 ## Introduction
 
